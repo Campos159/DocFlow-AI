@@ -1,0 +1,1 @@
+para rodar o servidor: python -m uvicorn main:app --reload ou py -m uvicorn main:app --reload
